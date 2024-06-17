@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Particles
+PURPOSE OF PROJECT: Just for fun
+VERSION or DATE: 2022
+HOW TO START THIS PROJECT: Not sure, to be honest.
+AUTHORS: Armin Hamrah
+USER INSTRUCTIONS: Not sure how this works, first time on GitHub. Feel free to play around and message me if it doesn't work.
