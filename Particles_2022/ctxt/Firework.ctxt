@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Firework
-comment1.params=
-comment1.target=Firework()
-comment2.params=
-comment2.target=void\ raiseCounter()
-comment3.params=
-comment3.target=int\ returnCounter()
-numComments=4
